@@ -3,7 +3,7 @@ Network Routing Algorithm : Distanc Vector الگوریتم مسیریابی ب�
 
 ## Install
 ```ps 
-git clone https://github.com/I3L4CK-H4CK3l2/Whois.git
+git clone https://github.com/hosein-khanalizadeh/Whois.git
 ```
 ## Usage
 ```ps 
